@@ -1,0 +1,29 @@
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\bin\Debug\net8.0\OOP Concept.exe
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\bin\Debug\net8.0\OOP Concept.deps.json
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\bin\Debug\net8.0\OOP Concept.runtimeconfig.json
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\bin\Debug\net8.0\OOP Concept.dll
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\bin\Debug\net8.0\OOP Concept.pdb
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.AssemblyInfoInputs.cache
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.AssemblyInfo.cs
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.csproj.CoreCompileInputs.cache
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.dll
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\obj\Debug\net8.0\refint\OOP Concept.dll
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.pdb
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.genruntimeconfig.cache
+C:\Users\Royet Camay\source\repos\OOP Concept\OOP Concept\obj\Debug\net8.0\ref\OOP Concept.dll
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\bin\Debug\net8.0\OOP Concept.exe
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\bin\Debug\net8.0\OOP Concept.deps.json
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\bin\Debug\net8.0\OOP Concept.runtimeconfig.json
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\bin\Debug\net8.0\OOP Concept.dll
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\bin\Debug\net8.0\OOP Concept.pdb
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.AssemblyInfoInputs.cache
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.AssemblyInfo.cs
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.csproj.CoreCompileInputs.cache
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.sourcelink.json
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.dll
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\obj\Debug\net8.0\refint\OOP Concept.dll
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.pdb
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\obj\Debug\net8.0\OOP Concept.genruntimeconfig.cache
+C:\Users\Royet Camay\source\repos\its-ryyt\OOP-Concept\OOP Concept\obj\Debug\net8.0\ref\OOP Concept.dll
